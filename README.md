@@ -43,7 +43,7 @@ Note: To execute the pipeline locally, users must provide their own structured d
 ## How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/ekaingutierrez/puerto-bilbao-trade-analytics.git
+   git clone https://github.com/ekaingutierrez/port-of-bilbao-trade-analytics.git
 
 2. Install dependencies:
    pip install -r requirements.txt
